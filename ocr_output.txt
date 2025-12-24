@@ -1,0 +1,121 @@
+[2025-12-15 08:10:23] === Strike Rate OCR Demo Started ===
+[2025-12-15 08:10:23] HTML / Notepad must be visible on screen
+[2025-12-15 08:10:26] Strike rate not found
+[2025-12-15 08:10:28] Strike rate not found
+[2025-12-15 08:10:31] Strike rate not found
+[2025-12-15 08:10:34] Strike rate not found
+[2025-12-15 08:10:36] Detected candidate: 262
+[2025-12-15 08:10:39] Strike rate not found
+[2025-12-15 08:10:42] Detected candidate: 262
+[2025-12-15 08:10:42] Strike Rate CONFIRMED: 262
+[2025-12-15 08:10:42] Screenshot saved: strike_rate_shots\20251215_081042.png
+[2025-12-15 08:10:44] Detected candidate: 262
+[2025-12-15 08:10:47] Strike rate not found
+[2025-12-15 08:10:50] Detected candidate: 262
+[2025-12-15 08:10:50] Strike Rate CONFIRMED: 262
+[2025-12-15 08:10:50] Screenshot saved: strike_rate_shots\20251215_081050.png
+[2025-12-15 08:10:53] Detected candidate: 2
+[2025-12-15 08:10:55] Strike rate not found
+[2025-12-15 08:10:58] Detected candidate: 262
+[2025-12-15 08:11:01] Strike rate not found
+[2025-12-15 08:11:04] Detected candidate: 262
+[2025-12-15 08:11:04] Strike Rate CONFIRMED: 262
+[2025-12-15 08:11:04] Screenshot saved: strike_rate_shots\20251215_081104.png
+[2025-12-15 08:11:06] Detected candidate: 292
+[2025-12-15 08:11:09] Strike rate not found
+[2025-12-15 08:11:11] Detected candidate: 292
+[2025-12-15 08:11:11] Strike Rate CONFIRMED: 292
+[2025-12-15 08:11:11] Screenshot saved: strike_rate_shots\20251215_081111.png
+[2025-12-15 08:11:14] Detected candidate: 202
+[2025-12-15 08:11:17] Strike rate not found
+[2025-12-15 08:11:20] Detected candidate: 292
+[2025-12-15 08:11:23] Detected candidate: 3
+[2025-12-15 08:11:25] Detected candidate: 3
+[2025-12-15 08:11:25] Strike Rate CONFIRMED: 3
+[2025-12-15 08:11:25] Screenshot saved: strike_rate_shots\20251215_081125.png
+[2025-12-15 08:11:28] Detected candidate: 3
+[2025-12-15 08:11:31] Strike rate not found
+[2025-12-15 08:11:33] Strike rate not found
+[2025-12-15 08:11:36] Strike rate not found
+[2025-12-15 08:11:38] Strike rate not found
+[2025-12-15 08:11:41] Strike rate not found
+[2025-12-15 08:11:43] Detected candidate: 262
+[2025-12-15 08:11:46] Detected candidate: 292
+[2025-12-15 08:14:39] === Strike Rate OCR Demo Started ===
+[2025-12-15 08:14:39] Ensure only ONE visible strike rate on screen
+[2025-12-15 08:14:42] Detected candidate: 1
+[2025-12-15 08:14:44] Strike rate not found
+[2025-12-15 08:14:46] Strike rate not found
+[2025-12-15 08:14:49] Detected candidate: 2
+[2025-12-15 08:14:51] Detected candidate: 12
+[2025-12-15 08:14:53] Detected candidate: 12
+[2025-12-15 08:14:53] Strike Rate CONFIRMED: 12
+[2025-12-15 08:14:53] Screenshot saved: strike_rate_shots\20251215_081453.png
+[2025-12-15 08:14:56] Detected candidate: 12
+[2025-12-15 08:14:58] Detected candidate: 98
+[2025-12-15 08:15:00] Detected candidate: 98
+[2025-12-15 08:15:00] Strike Rate CONFIRMED: 98
+[2025-12-15 08:15:00] Screenshot saved: strike_rate_shots\20251215_081500.png
+[2025-12-15 08:15:03] Detected candidate: 12
+[2025-12-15 08:15:05] Detected candidate: 12
+[2025-12-15 08:15:05] Strike Rate CONFIRMED: 12
+[2025-12-15 08:15:05] Screenshot saved: strike_rate_shots\20251215_081505.png
+[2025-12-15 08:15:08] Detected candidate: 98
+[2025-12-15 08:15:10] Detected candidate: 12
+[2025-12-15 08:15:13] Detected candidate: 68
+[2025-12-15 08:15:15] Detected candidate: 98
+[2025-12-15 08:15:17] Detected candidate: 12
+[2025-12-15 08:15:20] Detected candidate: 12
+[2025-12-15 08:15:20] Strike Rate CONFIRMED: 12
+[2025-12-15 08:15:20] Screenshot saved: strike_rate_shots\20251215_081520.png
+[2025-12-15 08:15:22] Strike rate not found
+[2025-12-15 08:15:24] Strike rate not found
+[2025-12-15 08:15:27] Strike rate not found
+[2025-12-15 08:15:29] Strike rate not found
+[2025-12-15 08:15:32] Detected candidate: 12
+[2025-12-15 08:15:34] Detected candidate: 12
+[2025-12-15 08:15:34] Strike Rate CONFIRMED: 12
+[2025-12-15 08:15:34] Screenshot saved: strike_rate_shots\20251215_081534.png
+[2025-12-15 08:19:05] === Strike Rate OCR (Change-based) Started ===
+[2025-12-15 08:19:05] HTML value may change every 3 seconds
+[2025-12-15 08:19:07] Strike Rate Detected: 26
+[2025-12-15 08:19:08] Screenshot saved: strike_rate_shots\20251215_081907.png
+[2025-12-15 08:19:10] Strike rate not found
+[2025-12-15 08:19:12] Strike rate not found
+[2025-12-15 08:19:15] Strike Rate Detected: 12
+[2025-12-15 08:19:15] Screenshot saved: strike_rate_shots\20251215_081915.png
+[2025-12-15 08:19:35] Strike Rate Detected: 2
+[2025-12-15 08:19:35] Screenshot saved: strike_rate_shots\20251215_081935.png
+[2025-12-15 08:19:45] === Strike Rate OCR (Change-based) Started ===
+[2025-12-15 08:19:45] HTML value may change every 3 seconds
+[2025-12-15 08:19:47] Strike Rate Detected: 26
+[2025-12-15 08:19:47] Screenshot saved: strike_rate_shots\20251215_081947.png
+[2025-12-15 08:19:50] Strike rate not found
+[2025-12-15 08:19:53] Strike rate not found
+[2025-12-15 08:19:56] Strike Rate Detected: 3
+[2025-12-15 08:19:56] Screenshot saved: strike_rate_shots\20251215_081956.png
+[2025-12-15 08:19:59] Strike Rate Detected: 2
+[2025-12-15 08:19:59] Screenshot saved: strike_rate_shots\20251215_081959.png
+[2025-12-15 08:20:03] Strike Rate Detected: 3
+[2025-12-15 08:20:03] Screenshot saved: strike_rate_shots\20251215_082003.png
+[2025-12-15 08:20:06] Strike Rate Detected: 12
+[2025-12-15 08:20:06] Screenshot saved: strike_rate_shots\20251215_082006.png
+[2025-12-15 08:20:25] Strike rate not found
+[2025-12-15 08:20:27] Strike rate not found
+[2025-12-15 08:20:30] Strike rate not found
+[2025-12-15 08:20:33] Strike rate not found
+[2025-12-15 08:20:35] Strike rate not found
+[2025-12-15 08:20:38] Strike rate not found
+[2025-12-15 08:20:41] Strike Rate Detected: 1
+[2025-12-15 08:20:41] Screenshot saved: strike_rate_shots\20251215_082041.png
+[2025-12-15 08:20:45] Strike Rate Detected: 12
+[2025-12-15 08:20:45] Screenshot saved: strike_rate_shots\20251215_082045.png
+[2025-12-15 08:20:58] Strike rate not found
+[2025-12-15 08:21:00] Strike rate not found
+[2025-12-15 08:21:04] Strike Rate Detected: 1
+[2025-12-15 08:21:04] Screenshot saved: strike_rate_shots\20251215_082104.png
+[2025-12-15 08:21:07] Strike Rate Detected: 12
+[2025-12-15 08:21:07] Screenshot saved: strike_rate_shots\20251215_082107.png
+[2025-12-15 08:24:24] === Strike Rate OCR (REGION MODE) Started ===
+[2025-12-15 08:24:24] Select STRIKE RATE area using mouse drag in next 5 seconds...
+[2025-12-15 08:24:29] Region saved: (0, 0, 1536, 864)

@@ -1,0 +1,17 @@
+[
+    {
+        "pattern": "ALARM",
+        "action": {
+            "type": "click",
+            "x": 500,
+            "y": 700
+        }
+    },
+    {
+        "pattern": "ERROR",
+        "action": {
+            "type": "message",
+            "text": "Error detected!"
+        }
+    }
+]

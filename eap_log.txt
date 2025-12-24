@@ -1,0 +1,2586 @@
+[2025-12-07 20:20:17] === EAP Prototype Started ===
+[2025-12-07 20:20:49] === EAP Prototype Started ===
+[2025-12-07 20:23:06] === EAP Prototype Started ===
+[2025-12-07 20:23:07] OCR: 
+[2025-12-07 20:23:08] OCR: 
+[2025-12-07 20:23:09] OCR: 
+[2025-12-07 20:23:11] OCR: 
+[2025-12-07 20:23:12] OCR: 
+[2025-12-07 20:23:13] OCR: 
+[2025-12-07 20:23:14] OCR: 
+[2025-12-07 20:23:15] OCR: 
+[2025-12-07 20:23:17] OCR: 
+[2025-12-07 20:23:18] OCR: 
+[2025-12-07 20:23:19] OCR: 
+[2025-12-07 20:23:20] OCR: 
+[2025-12-07 20:23:21] OCR: 
+[2025-12-07 20:23:22] OCR: 
+[2025-12-07 20:23:24] OCR: 
+[2025-12-07 20:23:25] OCR: 
+[2025-12-07 20:23:26] OCR: 
+[2025-12-07 20:23:27] OCR: 
+[2025-12-07 20:23:28] OCR: 
+[2025-12-07 20:23:30] OCR: 
+[2025-12-07 20:23:31] OCR: 
+[2025-12-07 20:30:16] === EAP Prototype Started ===
+[2025-12-07 20:30:16] OCR: de-F
+
+O
+[2025-12-07 20:30:17] OCR: de-F
+
+O
+[2025-12-07 20:30:18] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:21] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:22] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:23] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:24] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:26] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:27] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:28] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:29] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:31] OCR: de-F
+
+E rom fa
+
+File Edit
+
+AL
+[2025-12-07 20:30:32] OCR: rue tun View I I I
+(
+den ( )
+(
+Ln 1. Col ? 6 character Plain texi 500%
+[2025-12-07 20:30:33] OCR: rue tun View I I I
+(
+den ( )
+(
+Ln 1. Col ? 6 character Plain texi 500%
+[2025-12-07 20:30:35] OCR: rue tun View I I I
+(
+den ( )
+(
+Ln 1. Col ? 6 character Plain texi 500%
+[2025-12-07 20:30:36] OCR: rue tun View I I I
+(
+den ( )
+(
+Ln 1. Col ? 6 character Plain texi 500%
+[2025-12-07 20:30:38] OCR: rue tun View I I I
+(
+den ( )
+(
+Ln 1. Col ? 6 character Plain texi 500%
+[2025-12-07 20:30:39] OCR: de-F
+
+O
+[2025-12-07 20:30:40] OCR: de-F
+
+O
+[2025-12-07 20:30:41] OCR: de-F
+
+O
+[2025-12-07 20:30:42] OCR: de-F
+
+O
+[2025-12-07 20:30:44] OCR: de-F
+
+O
+[2025-12-07 20:30:45] OCR: de-F
+
+O
+[2025-12-07 20:30:46] OCR: de-F
+
+O
+[2025-12-07 20:30:47] OCR: de-F
+
+O
+[2025-12-07 20:30:48] OCR: de-F
+
+O
+[2025-12-07 20:30:50] OCR: de-F
+
+O
+[2025-12-07 20:30:51] OCR: de-F
+
+O
+[2025-12-07 20:30:52] OCR: de-F
+
+O
+[2025-12-07 20:30:53] OCR: de-F
+
+O
+[2025-12-07 20:30:54] OCR: de-F
+
+O
+[2025-12-07 20:30:56] OCR: de-F
+
+O
+[2025-12-07 20:30:57] OCR: de-F
+
+O
+[2025-12-07 20:30:58] OCR: de-F
+
+O
+[2025-12-07 20:30:59] OCR: de-F
+
+O
+[2025-12-07 20:31:00] OCR: de-F
+
+O
+[2025-12-07 20:31:01] OCR: de-F
+
+O
+[2025-12-07 20:31:03] OCR: de-F
+
+O
+[2025-12-07 20:31:04] OCR: de-F
+
+O
+[2025-12-07 20:31:05] OCR: de-F
+
+O
+[2025-12-07 20:31:06] OCR: de-F
+
+O
+[2025-12-07 20:31:08] OCR: Ln 1. Col ? 6 character Plain texi
+
+den ( 3
+
+O
+[2025-12-07 20:31:09] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:10] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:11] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:13] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:14] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:15] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:17] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:18] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:19] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:20] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:22] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:23] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:24] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:31:26] OCR: de.F ( ) In Ln 1. Col ? 6 character Plain texi
+
+( J
+[2025-12-07 20:36:33] === EAP Prototype Started ===
+[2025-12-07 20:36:37] OCR: 5
+
+><
+
+File
+
+\/
+
+::j;
+
+Edit Selection View
+
+UST PROJECT
+
+) venv34
+
+ eap_log.t)Ct
+main.py
+
+{} rules.js0n
+Statement of W0rk.do...
+
+> OUTLINE
+> TIMELINE
+
+4C
+Duie zachmu rze...
+
+(30 Run Terminal Help (-
+
+main.py I
+
+.-.-'9:-.c.-vve
+
+'ain.::3,.-' > [3 F~...LES_F|LE
+
+dew ( J
+(
+
+(
+( )
+
+dew 0
+
+(
+
+[]
+
+(\ren\r34) PS D:\UST PROJECT)
+
+{} |'-|lES._lEC'l
+
+TERMINAL
+
+main.py
+
+OCR: de.F ( ) In Ln 1. Col P 6 character Plain texi
+
+(J
+
+Traceback (most recent call last):
+File "main.py", line 195, in <module>
+
+main()
+
+File "main.py", line 191, in main
+time.sleep(1) # Scan every second
+
+Keyboardlnterrupt
+$4 EVGHV34) PS D:\UST PROJECT)
+
+III
+'7
+
+main.py
+
+Q Sea rch
+
+O
+
+Q UST PROJECT
+
+fl
+
+ 
+
++\,  "
+L4
+
+powershell
+Python
+
+X
+
+DSIJDCI 
+
+Build with Agent
+
+9 m:."r?._5,
+
+Agentv Autov 
+E. 3 gr u. 
+
+A 33*: .9 cm a
+
+20:36
+O?' 1 2- 202 5
+[2025-12-07 20:36:41] OCR: E E"-".2-"=3-"=
+
+V UST PROJECT
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+> OUTLINE
+> TIMELINE
+
+/\
+
+x-  _
+
+\/
+
+4C
+Duie zachmu rze...
+
+.-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC"
+-~~ain.:;;_.- > [3 F~...LES_F|LE
+ D X
+E romfa ALARF o +
+File Edit View H1 V -2. V 3 C9
+den ( )
+( )
+(
+( )
+Ln 1. Col ? 6 character Plain texi 500% Windows UTF-8
+den () "
+(
+( J
+[]
+
+==:'E_:.': ::-=.' I'EE_E.II' .::'_: TERMINAL "'
+
+(venv34) PS D:\UST PROJECT) main.py
+
+9 m: ."r?._5,
+
+Agentv Autov
+
+E. 3 gr u.
+
+A 33*: .9 cm a
+
+29:36
+
+O?' 1 2- 292 5
+
+.. I D 7 I
+'7 Q Search C Q.  E
+
+ 
+
++\,  "
+L4
+
+powershell
+Python
+
+X
+
+Build with Agent
+
+:11) @-
+
+20:36
+0?' 1 2- 202 5
+[2025-12-07 20:36:45] OCR: E5. 3'' -.2   .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC"
+1
+
+ 
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> V~-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy File Edlt View H1 V  1. V 9 C53
+{} ru|es.js0n
+StatementofW0rk.do... ! I ! 
++
+den ( ) C;
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+==:':_:.': ::-=.' :'::_:.::- .::'_: TERMINAL  lv  :3 x
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+Python
+
+{} ru|es.jsen
+
+Statement of L-derk.do. . .
+
+> OUTLINE
+
+> TIMELINE 9 ,l,_,5_.,?__5},
+
+/\
+>0UTL|NE X_ Agentv Autov 1P8
+> TIMELINE _
+
+;< jxj :_"_:   :: '   ..=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 -:-: _ 5 IT
+4C .. n P l - pu ENG A 20:36
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:36:49] OCR: IE5. E"--".2  .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC"
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy Flle Edlt View H1 V  1. V 9 C53
+{} ru|es.json
+
+Statement of Work.do... ! L ! R M
+4}
+de'F ( ) 5.1+
+
+( ) Build with Agent
+
+ 
+
+(
+( )
+Ln1.Co|? Echaracter Plaintexi 500% Windows UTF-8
+de-F () "
+(
+( J
+[]
+
+==:'s_:.': ::.=_' :'::_:.::-_::'_: TERMINAL =::r'2 -I-v  [3 X
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
++\ " Python
+
+L4
+
+powershell
+
+Python
+
+9 m:."r?._5,
+
+X
+
+B '1d 'th t
+>0UTL|NE U1 [1 Age Agentv Autov 1P8
+> TIMELINE :11) @_
+
+;< j><j:_"_: _ :: 5  ..=-3 .::._= jj--_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-: 
+
+4C .. n P l - p-u ENG A 20:36
+Duzezachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:36:53] OCR: E5. 3'' -.2   .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC"
+1
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+> Vt-W34 E rom fa ALARF o +
+
+eap_|og.t)Ct _ I _
+mampy Flle Edlt View H1"  1. V 9 C53
+
+{} ru|es.js0n
+
+Statement of W0rk.do... ! L ! R M
+4}
+de'F ( ) 5.1+
+
+ 
+
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+de'F () "
+(
+( J
+[]
+==:'5_:  ::-=. :35. 3 .1: .::'_E TERMINAL =::?2 -|- v  E] X
+- _ h ll
+(verw34) PS D:\UST PROJECT) ma1n.py Powers 9
+Python
+
+v UST PROJECT ~~ain.::;,. > [3 F~...LES_F|LE .-
+
+> V~N34 E romfa ALARF 0 + _ D X
+
+eap_|og.t)Ct
+
+mampy File Edlt View H1 V 1. V 9 C53 9 mg.-,?_:,,
+
+{} ru|es.jsen
+
+Statementol@rk.do... ! I !
+
++
+
+> OUTLINE den ( ) C; Agentv Autov 1P8
+> T'ME'-NE ( ) Build with Agent
+;< jxj :_"_:   ::'   ..=-3 .-:._= jj- r -_-:-- E.  2 I: u.  -:-:  Ii
+4C .. n P l - pu ENG A 20:36
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+- - - - - -
+[2025-12-07 20:36:56] OCR: main.py I {} |'-||ES._iEC"
+
+IE). 3- _C   .-.-"9:'-.'c.-vie
+1
+
+ 
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> V~-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy File Edlt View H1 V  1. V 9 C53
+{} ru|es.js0n
+StatementofW0rk.do... ! I ! 
+4}
+de-F ( ) Cl
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+
+==:'s_:.': ::.=_ :':z_:.::- _::'_: TERMINAL " |v  [3 X
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+(verw34) PS D:\UST PROJECT) main.py PNer5"e" PW10
+
+Python
+
+{} ru|es.jsen
+
+Statement of Lderk.do. 9 mg;-rm,
+
+> OUTLINE
+> OUTLINE ) TIMELINE 9 1 5 ? 5} Agentv Autov 1P8
+
+J J_J _'J'__ J
+> TIMELINE
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 -:-: _ 5 IT
+4C .. n P l - pu ENG A 20:36
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:37:01] OCR: E5. 3'' -.2   .-.-"9:'-.'c.-vie main.py I {} |'.||ES._i:?C"
+1
+
+ 
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+ D X
+> Vi-W34 E rOmfa ALARi o +
+ eap_|Og.t)Ct
+mampy File Edit View H1  1. 9 C53
+{} ru|es.jsOn
+Statement OfWOrk.dO... ! I ! 
+*+
+de-F ( ) C4
+( ) Build with Agent
+(
+( )
+Ln1.CO|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+
+=::-2.2:: ::_=.' :-:s_:.::- .3:-.2 TERMINAL  + v :3 x
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+4C.. nP1pu ENGA20:36 PW10
+
+I Q search I CI hr % H HI ' A IN " '1') E O?122O25
+
+Duie zachmu rze. ..
+
+OCR: IE5. E"".2 .."9:'.'C.vie main.py I {} |'||ES._iEC"
+
+1 9 r'.I:."r 5,
+
+v UST PROJECT ~~ain.::;,. > [3 F~...LES_F|LE
+
+> VtN34 E romfa ALARF O + _ D X
+
+eap_|Og.t)Ct V V
+> ""E mampy Flle Edlt View H1 V 1. V 9 C53 Age Am w
+> TIMELINE {} ,.u|eS_J-Son
+;< jxj  _   :: ' 5;:  - .,=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; -:-:  C
+4C .. n P l - pi ENG A 20:36
+I Q Search I CI hr % H  -HI ' A IN " '1') E 0?'122025
+
+Duie zachmu rze...
+[2025-12-07 20:37:04] OCR: main.py I {} |'-||ES._iEC"
+
+IE). 3- _C   .-.-"9:'-.'c.-vie
+1
+
+ 
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy Flle Edlt View H1 V  1. V 9 C53
+{} ru|es.js0n
+Statement ofW0rk.do... ! I ! 
++
+den ( ) C;
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den () "
+(
+( J
+[]
+
+==:'E_:.': ::-=.' I'EE_E.II'._7I'_E TERMINAL "' lv  [3 X
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+Ln1.Co|? Echaracter Plaintexi 599% windows UTF-8 PW10
+
+deF () "
+
+(
+
+( J
+
+[]
+
+9 m:."r?._5y
+
+== 's_ ' : =_' ' _ ::_::'_: TERMINAL =::r'2 Iv [3 X
+> OUTLINE (verw34) PS D:\UST PROJECT) ma1n.py PNer5 e Agentv Autov W
+> TIMELINE +\ -- python
+
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 -:-: _ 5 IT
+4C .. n P l - pu ENG A 20:32
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:37:08] OCR: 5
+
+\/
+
+/\
+
+V UST PROJECT
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+> OUTLINE
+> TIMELINE
+}{  '
+
+4C
+Duie zachmu rze...
+
+main.py I
+
+.-.-'9:-.c.-vve
+
+-~~ain.:;;_.- > [3 F~...LES_F|LE
+
+dew ( J
+(
+
+(
+( )
+
+dew 0
+
+(
+
+[]
+
+(\ren\r34) PS D:\UST PROJECT)
+
+powershell
+Python
+
+9 m:."r?._5,
+X
+
+B 'ld 'th t
+
+>eUTL|NE U1 [1 Age Agentv Autov 1P8
+
+III
+'7
+
+{} |'-||ES._iEC"
+
+Q Sea rch
+
+TERMINAL
+
+main.py
+
+ D X
+E romfa ALARF o +
+File Edit View H1 V -2. V 3 C9
+Ln1.C0|? Echaracter Plaintexi 500% Windows UTF-8
+J
+n 7-
+I C; . % " H
+
+ 
+
+powershell
+Python
+
+X
+
+Build with Agent
+
+9 m:."r?._5,
+
+Agent V Auto
+
+ 2 I in
+ENG Q
+
+:11) @-
+
+20:3?
+O?' 1 2- 202 5
+[2025-12-07 20:37:12] OCR: IE5. E"--".2  .-.-"9:'-.'c.-vie main.py I {} |'-|iES._iEC"
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy File Edit View H1 V  1. V 9 C53
+{} ru|es.js0n
+
+Statement of W0rk.do... ! L ! R M
+4}
+de'F ( ) 5.1+
+
+ 
+
+( ) Build with Agent
+(
+( )
+Ln 1. Col ? 6 character Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+
+==:':_:.': ::-=. :'::_:.::- .::'_: TERMINAL 2:3; -| v  [3 x
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+> vtw34 E mm fa ALARF o + P3/Tho
+
+eap_|og.t)Ct _ I _
+
+mampy Flle Edlt View H1" 1. V 9 C53
+
+{} ru|es.jsen 9 mg;-rm,
+
+Statement of Nerk.do... ! L ! R M
+
+4
+> OUTLINE di.F ( ) 5 1+ Agentv Autov 1P8
+> TIMELINE
+
+;< jxj :_"_: _ :: 5  ..=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+
+4C .. n P l - pi ENG A 20:3?
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A W '7' cm E o..r'_12_2o25
+[2025-12-07 20:37:16] OCR: I {} |'-||ES._iEC"
+
+IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy Flle Edlt View H1 V  1. V 9 C53
+{} ru|es.js0n
+Statement ofW0rk.do... ! I ! 
++
+de'F ( ) C;
+
+( ) Build with Agent
+
+ 
+
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+==:':_:.': ::.=. :':s_:.::- .::'_: TERMINAL  | v  :3 x
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+Python
+
+v UST PROJECT ~~ain.::_-._.. > [3 F~...LEs_F|LE .-
+
+> V~N34 E romfa ALARF 9 + _ D X
+
+eap| Cg ' t)Ct 9 m:."r?.5 
+
+mampy File Edlt View H1 V 1. V 9 C53 9 mg.,?_:,,
+
+> OUTLINE . Agentv Autov 1P8
+{} ru|es.]sen
+> TIMELINE
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3'''E'2|:". j er.-.-3-"; -:-:  IT
+4C .. n P l - p-u ENG A 20:32
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:37:20] OCR: main.py I {} |'-||ES._iEC"
+
+IE). 3- _C   .-.-"9:'-.'c.-vie
+1
+
+ 
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy Flle Edlt View H1 V  1. V 9 C53
+{} ru|es.js0n
+Statement ofW0rk.do... ! I ! 
++
+den ( ) C;
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+def () "
+(
+( J
+[]
+==:'5_:.': ::-=. I'EE_E.II._7I'_E TERMINAL ' |v  [3 X
+- _ h ll
+(verw34) PS D:\UST PROJECT) ma1n.py Powers 9
+Python
+
+eap_|og.t)Ct
+
+mampy File Edlt View H1 V 1. V 9 C53 9 mg.,?_:,,
+
+{} ru|es.jsen 9 mg;-rm,
+
+Statementol@rk.do... ! I !
+> OUTLINE + Agentv Autov 1P8
+> TIMELINE
+
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 -:-: _ 5 IT
+4C .. n P l - pu ENG A 20:32
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:37:24] OCR: US I E} El ' 0' ><
+
+T1
+<
+
+File Edit Selection View (30 Run Terminal Help (- Q UST PROJECT
+IE5. E"--.2-"=3-"=  .-.-"9:'-.'c.-vie main.py I {} |'.|lES._lEC'l DV U]   l E) .3  :3 X
+1
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+
+) venv34
+
+ eap_log.t)Ct
+main.py
+
+{} rules.js0n
+Statement of W0rk.do...
+
+def ( ) [;;:}
+
+l l 0 ( ) Build with Agent
+( J
+( J
+den ()
+( J
+( J
+[]
+==:'E_:  ::-=.' :35. 3 .1: .31.: TERMINAL =::= -l- v  E] X
+(verw34) PS D:\UST PROJECT) main.py Powershell
+Python
+
+Statementol@rk.do... ! I !
+
+> OUTLINE + Agentv Autov 1P8
+
+) TIMELINE
+
+;.< jxj :_"_: :: ' 5:: ..=3 .::._= jj __: E. 3_'_'32I:'.jer..31 :: _ 5 IT 9 mg.-rm,
+
+4:: .. nPl pu ENGA2eT32
+I Q search I (:1 hr % H HI ' A IN " '1') E 97-12-2925
+
+ 
+
+> OUTLINE .
+Du1e zachmu rze. ..
+> TIMELINE I
+>< :I}{I I  3 _"  C: S -'-'' ..3E .::._= I } -"_.'':'' E; E''' E'2|:". I en.'E''j :1:-:: -E: _".'s 
+
+4C .. n P l - p-u ENG A 20:32
+Duie zachmurze... " Q Search I C Ir % n M355 -5 J" A m '7' cl) E o..r'122o25
+[2025-12-07 20:37:27] OCR: D3I3DC| 0' ><
+
+fl
+<
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+E5. 3'' -.2   .-.-"9:'-.'c.-vie main.py I {} |'-|lES._lEC'l
+1
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_log.t)Ct
+main.py
+
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+def (
+l ) BU|lCl with Agent
+0 ( )
+( J
+( )
+def ()
+( )
+( J
+[]
+==:'E_:  ::-=.' :35. 3 .1: .31.: TERMINAL =::=' -l- v  [I X
+(verw34) PS D:\UST PROJECT) main.py Powershell
+Python
+
+) OUTLINE
+
+Duie zachmu rze. ..
+
+> TIMELINE I 9 M, 5,
+
+K :I}-[I I 3 _" C: S '" ..3E .::._= I } "_.":" E; E"' E'2|:". I en.'E"j :1::: E: _".'s
+
+4C .. nP 1  pu ENGA2e:32
+> OUTLINE Duie zachmurze. .. " Q Search I C It" % n M355 -5 J" A m '7' cl) E 0. .r'122o25 Agent Auto W
+> TIMELINE I
+
+>< :I}{I I 3 _"  C: ' S" '-' ' ..3E .::._= I} -"_.":" E; E'''E'2l:". I en.'E''j :1:-::-E: _ 5 IT
+
+4C .. n P l - pu ENG A 20:3?
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:37:31] OCR: File Edit Selection View (30 Run Terminal Help (- Q UST PROJECT |:f'v U8 D D []  G X
+IE5. E"--.2-"=3-"=  .-.-"9:'-.'c.-vie main.py I {} |'.|lES._lEC'l DV U] l E) .3 :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
++
+de'F ( ) 5.1+
+( l Build with Agent
+0 ( )
+( J
+C )
+de'F 
+C )
+( J
+[]
+
+==:'s_:.': ::.=_ :':z_:.::- _::'_: TERMINAL 2:3; l- v  C] x
+
+(verw34) PS D:\UST PROJECT) main.py Powershell
+
+> OUTLINE + Agentv Autov 1P8 Python
+
+) TIMELINE
+
+;..< jxj :_"_: :: ' 5:: ..=3.::._=jj__: E. 3_'_'32I:'.jer..31::_ 5 IT 9 mg.rm,
+
+9 m::'r:._5y
+4:: .. nP1 pu ENGI-\2eT32
+I Q Search I (:1 hr % H HI ' A IN " '1') E 97-12-2925
+> OUTLINE Agentv Autov 1P8
+> TIMELINE
+>< :I}{I I  3 _"  C: ' S-:--_ -'-'' ..3E .::._= I } -"_.'':'' E; E''' E'2|:". I en.'E''j :1:-:: -E: _".'s 
+4C .. n P l - pu ENG A 20:3?
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A W '7' cl) E o..r'_12_2o25
+[2025-12-07 20:37:36] OCR: \/
+
+IE5. E"--.2-"=3-"=  .-.-"9:'-.'c.-vie main.py I {} |'-||ES._i:?C" DV U]   +" E) .3  :3 X
+1
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+> Vi-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy File Edit View H1 V  1. V 9 C53
+{} ru|es.js0n
+
+Statement of W0rk.do...
+
+ALARM
+ < > C3
+
+ 
+
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+
+==:-2.2:: ::_=. :-:s_:.::- .3:-.2 TERMINAL ::::-2 | v  :3 x
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+> TIMELINE I P3/Tho
+
+>< :I}-[I I 3 _" C: S '" ..3E .::._= I } "_.":" E; E"' E'2|:". I en.'E"j :1::: E: _".'s
+
+4C .. nP 1  pu ENGI-\2e:32
+
+Duie zachmurze... " Q Search I C It" % n M355 -5 J" A m '7' C1) E o..i"'122o25
+
+OCR: D3I3DC| 9' >< 9 m_..,_5;,
+
+fl
+
+<
+> OUTLINE Agentv Autov 1P8
+> T'ME'-'NE File Edit selection View (39 Run Terminal Help ( Q USTPROJECT
+
+< j><j'  _ :: 5: .,=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-i:'-.jei-.-.-3-"; =::-::-:-: 
+
+4C .. n P l - pu ENG A 20:3?
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:37:36] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:37:36] Click action at (500, 700)
+[2025-12-07 20:37:39] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+de'F ( )
+l l 0 ( ) Build with Agent
+( J
+C )
+de'F 
+C )
+( __ >
+Debug Console (Ctr|+Shift+Y)
+5325.5 '3 OUTPUT DEBUGCONSOLE -3: ' ._ " Q ><=:  X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE )
+>< :><, I_"__ _"  I: ' 5::-_ :-_'-'' ..=3 .f3._= I} _'_-':" Ea E''E';::'.je-'.E'j - I-: _.5 
+
+0 pa. _ :
+4c  Q Search I 6 Q.  , h 1,1365 ,5 W. E A Ems "-5 Cl!) E m_12_22%::
+
+Duie zachmu rze...
+[2025-12-07 20:37:42] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+den ( )
+l l 0 ( ) Build with Agent
+( 3
+C )
+den 0
+C )
+( 3
+Problems (Ctrl+Shift+M) [ ]
+PROBLEMS OUTPUT :i:_:.:: ._'-:_E E: ' .-_ =':= Tasks v E [E] [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+>T|MELlNE
+>< :><,I.'.Z _-"f.f:' S':s:e3' -'3i 23.} Z: 3_.'.":-' E -I-:_.5 
+4C .. D 7 - F ENG ____ 20:3?
+I Q Search I C Ir % " n  '5-I ' E A IN " cl) E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:37:46] OCR: File Edit Selection View (30 Run Terminal Help (- Q UST PROJECT |:f'v U8 D D []  G X
+IE5. E"--.2-"=3-"=  .-.-"9:';'c.-??E- main.py I {} |'.|lES._lEC'l DV U] l E) .3 :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+
+Statement of W0rk.do...
+
+den ( 3 C3
+
+( l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( J
+[]
+
+==:'s_:.': ::.=_ :':z_:.::- _::'_: TERMINAL 2:3; l- v  C] x
+
+(verw34) PS D:\UST PROJECT) main.py Powershell
+
+IE5. E".2"=3"= .."9:'.'c.vie main.py I {} |'.|1ES._lEC'1 DV U] 1 E) .3 :3 x Python
+
+1
+
+v UST PROJECT ~~ain.::_'._.. > [3 F~...LES_F|LE
+
+) venv34
+
+eap_1og.t)Ct
+main Fly 9 m:."r?._5,
+
+{} ru1es.jsen
+Statement of Nerk.do...
+
+ 
+
++
+> OUTLINE de.F ( ) 5.1+ Agent Auto 1P8
+> T'ME'-NE ( 1 Build with Agent
+>< :I}{I I  3 _ C: S  ' ..3E .f3._= I } _ '_-':" E; E '' E'2|:". I en.'E''j :2:-:: -E: _".'E 
+
+4C .. n P l - p-u ENG A 20:3?
+Duzezachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cl) E o..r'122o25
+[2025-12-07 20:37:50] OCR: IE5. E"--".2  .-.-"9:';'c.-??E- main.py I {} |'-||ES._iEC"
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE .-
+> Vt-W34 E romfa ALARF o + _ D X
+ eap_|og.t)Ct
+mampy Flle Edlt View H1 "  1. " 9 C53
+{} ru|es.js0n
+
+Statement of W0rk.do... ! L ! R M
+4}
+de'F ( ) 5.1+
+
+ 
+
+( ) Build with Agent
+(
+( )
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+den 0 '-
+(
+( J
+[]
+
+==:':_:.': ::-=. :'::_:.::- .::'_: TERMINAL =::r2 |v  :3 x
+
+(verw34) PS D:\UST PROJECT) main.py PWer5"e"
+
+IE5. E".2"=3"= .."9:'.'C.vie main.py I {} |'.|lES._lEC'l DV U] 1 E) .3 :3 x P3/Tho
+
+1
+
+v UST PROJECT ~~ain.::;.,. > [3 F~...LES_F|LE
+
+) venv34
+
+eap_1og.t)Ct
+
+ma]-n'py _ 9 m:."r?._5,
+
+{} ru1es.]sen
+
+Statement of Nerk.do...
+
++
+
+> OUTLINE de.F ( ) 5 1+ Agentv Autov 1P8
+> T'ME'-NE ( 1 Build with Agent
+;< jxj  : _ :: 5  ..=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C .. n P l - pu ENG A 20:3?
+Duzezachmurze... " Q Search I C Ir % n M355 -5 "" A W '7' cm E o..r'_12_2o25
+[2025-12-07 20:37:53] OCR: main.py I {} |'-||ES._iEC'l DV U]   +" E) .3  :3 X
+
+n
+J
+u
+1
+J
+n:
+J
+'k\
+0
+1
+
+ D ><
+E romfa ALARF o +
+File Edit View H1 V  -2. V 3 C9
+
+ALARM
+
+ 
+
+) Build with Agent
+0 ( )
+)
+Ln1.CO|? Echaracter Plain texi 500% Windows UTF-8
+( )
+C J
+[]
+
+==:':_:.': ::-=. :'::_:.::- .::'_: TERMINAL =::r'2 -| v  [3 x
+
+OCR: File Edit selection View (39 Run Terminal Help ( Q UST PROJECT |:1"v U8 D D [] G x powershe"
+
+IE5. E".2"=3"= .."9:'.'C.vie main.py I {} |'.|lES._lEC'l DV U] 1 E) .3 :3 x P3/Tho
+
+1
+
+v UST PROJECT ~~ain.::;,. > [3 F~...LEs_F|LE
+
+) venv34
+
+eap_10g . t) Ct
+
+ma]-n'py _ 9 m:."r?._5y
+
+{} ru1es.]sen
+
+Statement OF L-derk.dO. . .
+
++
+
+> OUTLINE de.F ( ) 5.1+ Agentv Autov 1P8
+> T'ME'-NE ( 1 Build with Agent
+;< jxj :_"_:  '-: :: 5  ..=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+4C .. D 7 - F ENG ____ 20:3?
+Duie zachmurze... " Q Search I C Ir % , n M355 -5 "" A W '7' cm E o..r'_12_2o25
+[2025-12-07 20:37:53] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:37:53] Click action at (500, 700)
+[2025-12-07 20:37:57] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( __ >
+Debug Console (Ctr|+Shift+Y)
+==::_: '3 ':_=_ DEBUGCONSOLE er - .-_ " Q E [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+>TlMELlNE )
+>< :><,I_"__ _"'-52: S::-_:-_'-'' ..=3 .f3._= I}_'_-':'' E; E''E';::'.je-'.E'j -I-:_.5 
+4C .. D 7 - F ENG ____ 20:3?
+I Q Search I C Ir % " n  '5-I ' E A IN " cl) E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:00] OCR: nu-_'|-nngvv.-- I-
+
+ 5. E"--.2-"=3-"=   main.py I {} |'-||ES._i:?C'l DV U]   +" E) .3  :3 X
+1
+ D X
+E romfa ALARF o +
+
+File Edit View H1v  -2. V 3 C9
+
+ALARM
+
+) 0 ( ) Build with Agent
+
+Ln 1. Col ? 6 character Plain texi 500% Windows UTF-8
+
+[]
+
+33I'E_E.'f II.'3__ DEBUGCONSOLE TERMINAL 3223-5 Q ><=:  X
+
+> OUTLINE Agent v Auto v 1P8
+> TIMELINE )
+>< :I}{I I  3 _"  C: ' 5::-:._'5;' ' ..3E -31.} i E 3;'.'n-:' B E '' E'2|:". I eI'.:'E''j :1:-:: -E: _".'s 
+
+4C .. D 7 - F ENG ____ 20:3?
+Duzezachmurze... " Q Search I C Ir % , h "-5 -5 "" A '7' cm E o..r'_12.2o25
+[2025-12-07 20:38:00] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:00] Click action at (500, 700)
+[2025-12-07 20:38:03] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( J
+[]
+==::_: '3 ':_=_ DEBUGCONSOLE er - .-_ " Q E [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE )
+>< :><, I_"__ _"  I: ' 5::-_ :-_'-'' ..=3 .f3._= I} _'_-':" Ea E''E';::'.je-'.E'j - I-: _.5 
+
+0 pa. _ :
+4c  Q Search I g Q. % , W 1,4365 _ f 5? g A Ems '55- Cl!) E m_12_22%::
+
+Duie zachmu rze...
+[2025-12-07 20:38:06] OCR: n
+J
+u
+1
+J
+n:
+J
+'k\
+0
+1
+
+main.py I {} |'-||ES._iEC'l
+
+ D ><
+E romfa ALARr o +
+File Edit View H1 V  -2. V 3 C9
+
+ALARM
+
+Build with Agent
+
+ 
+
+)
+O ( )
+)
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+( )
+C J
+[]
+==:'s_:.': ::.=_ :':z_:.::- _::'_: TERMINAL .5: |v  [3 X
+_ h ll
+Statement of L-derk.do. . . powers 9
+Python
+ALARM
+< > C3
+_ _ 9 m:."r?._5,
+( ) Bulld wlth Agent
+(
+> OUTLINE ( ) . . . Agentv Autov FE
+Ln1.Ce|? Echaracter P1a1n texl 599% Nlndows UTF-8
+> TIMELINE den 9 -_
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+4C .. n P l - p-u ENG A 20:38
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:06] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:06] Click action at (500, 700)
+[2025-12-07 20:38:10] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( J
+[]
+==::_: '3 ':_=_ DEBUGCONSOLE er - .-_ " Q E [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE )
+>< :><, I_"__ _"  I: ' 5::-_ :-_'-'' ..=3 .f3._= I} _'_-':" Ea E''E';::'.je-'.E'j - I-: _.5 
+
+0 pa. _ :
+4c  Q Search I g Q. % , W 1,4365 _ f 5? g A Ems '55- Cl!) E m_12_22%::
+
+Duie zachmu rze...
+[2025-12-07 20:38:13] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( J
+[]
+==::_: '3 ':_=_ DEBUGCONSOLE er - .-_ " Q E [3 X
+- Statement of Work Word
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE ) _  __ I 
+>< :><,I.".. Z} -"_'.":" Ea E''E';::'.je-'.E'j - I-:_.5 
+4C .. D 7 - F ENG ____ 20:38
+I Q Search I C.) hr % A F  _ -L.-II *_ 3 A IN " cl) E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:16] OCR: -"9-'-.'c.-vie main.py I {} |'-||ES._iEC'l
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+den ( )
+0 ( ) Build with Agent
+
+den (3
+
+. powershell
+{} ru|es.]sen
+Python
+
+==:':_:.': :: :'::_:.::-.::'_: TERMINAL
+
+Statement of Nerk.do...
+
+ALARM
+< ) C3
+9 m:."r?.5y
+
+( ) Build with Agent
+
+> ounms (
+> TIMELINE ( )
+>< :><: II _"  C: ' 5::-:._'5;' ' ..3E .f3._= Z} _ '_-':-' E; E '' E'2|:". I eI'.:'E''j 133-13 -3: _ .5 
+4C .. n P l - p-u ENG A 20:38
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:16] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:16] Click action at (500, 700)
+[2025-12-07 20:38:19] OCR: IE5. E"--".2  .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC'l D V U]   + V E) .3  :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+den ( 3 C3
+
+( ) 0 ( ) Build with Agent
+( J
+C )
+den 0
+C )
+( J
+[1
+E romfa ALARF o + _ D X +v  :3 x
+File Edit View H1 V  -2. V 3 C9 PWer5e"
+Python
+9 msirvsg I
+>0UTL|NE Agentv Autov 1P8
+> TIMELINE
+>< :><: I '_Z _"  C: ' 5::-:._'5;'' ..3E .f3._= Z} _'_-':-' E; E'''E'2|:".jeI'.'.'E''j III-II-E: _'''e I?
+
+4C -I D 7 - F ENG ____ 20:38
+Duzezachmurze... I Q Search I C Ir % A H  IUI ' A IN " '1') E 07-12-2025
+[2025-12-07 20:38:23] OCR: Duie zachmu rze...
+
+IE). 3- _C  .-.-"e:'-.'c.-??'='- main.py I
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+{} ru|es.js0n
+Statement of Work/do...
+ D X
+E romfa ALARF o
+File Edit View H1 V -2. V 3 C9
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8
+Statement of LI6r|<.do. . .
+ALARM
+< ) C3
+B "161 'th t
+> OUTLINE E ) U1 [1 Age
+> TIMELINE ( )
+>< }{  3
+4C II
+'7
+
+{} |'-||ES._iEC'l
+
+TERMINAL
+
+Q Sea rch
+
+O
+
+ 
+
++\,  "
+L4
+
+powershell
+Python
+
+X
+
+Build with Agent
+
+:11) @-
+
+20:38
+0?' 1 2- 202 5
+[2025-12-07 20:38:23] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:23] Click action at (500, 700)
+[2025-12-07 20:38:27] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of Work/do...
+
+E rom fa ALARF o +
+
+File Edit View H1v  -2. V 3 C9 C}
+
+A   ) 0 ( ) Build with Agent
+
+ 
+
+( )
+)
+TERMINAL ' |v [3 X
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8 T
+" powershell
+_ ._ - _. ..-.- -r\-_.--|:'.__) main.py PNer5"e" PW10
+) TIMELINE I P3/Tho
+>< :I}[I I 3 _" C: S  ..3E .::._= I }  E; E"' E'2|:". I en.'E"j :1::: E: _".'s
+9 r'.I:."r py
+
+4C .. nP 1 pu ENGI\2e:32
+
+Duie zachmurze... " Q Search I C It" % n M355 -5 J" A m '7' (31) E o..i"'122o25
+> OUTLINE Agentv Autov 1P8
+> T'ME'-'NE OCR: D3I3DC| 9' >< 9 m .., 5;,
+
+;< x    :: ' 5;:  ' ..'=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C .. n P l - p-u ENG A 20:38
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:30] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of Work/do...
+
+E rom fa ALARF o +
+
+File Edit View H1v  -2. V 3 C9 C}
+
+A   ) 0 ( ) Build with Agent
+
+ 
+
+( )
+)
+TERMINAL ' |v [3 X
+Ln1.C0|? Echaracter Plaintexi 500% Windows UTF-8 C
+" powershell
+_ _ r... ._ .-._- .. 29:3? P3/Tho
+
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' Cm E o..r'122o25
+
+[MATCH] Pattern detected: ALARM
+
+Click action at (599, 299)
+
+OCR: C3 D3I3DC| 9' ><
+
+_ _ _ _ _ 9 m:."r?._5y
+F11e Ed1t Selectlon Vlew (39 Run Termlnal Help ( Q USTPROJECT
+IE : 3- C .."9:'.' .??'=' ' .
+> OUTLINE }  C mm W Agentv Autov 1P8
+> T'ME'-'NE v UST PROJECT ~~ain.::;,. > [3 F~...LES F|LE
+;< x    ::' 5;:  ..'=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+4C .. n P l - p-u ENG A 20:38
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:38:30] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:30] Click action at (500, 700)
+[2025-12-07 20:38:34] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"e:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of Work/do...
+
+E rom fa ALARF o +
+
+File Edit View H1v  -2. V 3 C9 C}
+
+A   ) 0 ( ) Build with Agent
+
+ 
+
+( )
+)
+TERMINAL ' |v [3 X
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8 T
+" powershell
+._.~-.RM
+
+____ ____-. -_ .,-.--.-, ..-cu) P3/Tho
+
+OCR: C3 D3I3DC| 6' X
+
+File Edit Selection View (39 Run Terminal Help ( Q USTPROJECT
+
+IE}: 3- _C .."9:'.'c.??'=' main.py 9 mg, 5],
+
+v UST PROJECT ~~ain.::;,. > [3 F~...LES_F|LE
+> OUTLINE I {} |._|1ES._1EC.1 Agentv Autov 1P8
+> TIMELINE
+
+;< x    :: ' 5;:  ' ..'=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C D 7 ' ENG 20:38
+:7. Q Search I C Q.   n grass I. r A N 45- C11) E} m_12_2O25
+
+Duie zachmu rze...
+[2025-12-07 20:38:37] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"e:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of Work/do...
+
+E rom fa ALARF o +
+
+File Edit View H1v  -2. V 3 C9 C}
+
+A   ) 0 ( ) Build with Agent
+
+ 
+
+( )
+)
+TERMINAL ' |v [3 X
+Ln1.C0|? Echaracter Plain texi 500% Windows UTF-8 T
+" powershell
+._.~-.RM
+
+____ ____-. -_ .,-.--.-, ..-cu) P3/Tho
+
+OCR: C3 D3I3DC| 6' X
+
+File Edit Selection View (39 Run Terminal Help ( Q USTPROJECT
+
+IE}: 3- _C .."9:'.'c.??'=' main.py 9 mg, 5],
+
+v UST PROJECT ~~ain.::;,. > [3 F~...LES_F|LE
+> OUTLINE I {} |._|1ES._1EC.1 Agentv Autov 1P8
+> TIMELINE
+
+;< x    :: ' 5;:  ' ..'=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C D 7 ' ENG 20:38
+:7. Q Search I C Q.   n grass I. r A N 45- C11) E} m_12_2O25
+
+Duie zachmu rze...
+[2025-12-07 20:38:40] OCR: IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+
+mainpy
+
+E mmm Amm o +
+
+H1 \/ nu 1. v
+
+Fe Ed Vhmu
+
+ALARM
+
+Ln 1. Col ? 6 character Plain texi 500% Windows UTF-8
+I {} |'|1ES._1EC'1
+) venv34
+eap_1og.t)Ct
+main.py
+{} ru1es.jsen
+Statement of Nerk.do...
+> OUTUNE de.F ( )
+> T1MEE 1 1 9 ( ) Build with Agent
+>< X Z." :
+4C II
+'7
+
+Duke zachmu rze...
+
+{} |'-||ES._iEC'l
+
+TERMINAL
+
+Q Sea rch
+
+O
+
++\,  "
+L4
+
+powershell
+Python
+
+X
+
+Build with Agent
+
+:11) @-
+
+20:38
+0?' 1 2- 202 5
+[2025-12-07 20:38:40] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:38:40] Click action at (500, 700)
+[2025-12-07 20:38:44] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( J
+( )
+den 0
+( )
+( J
+[]
+==::_: '3 ':_=_ DEBUGCONSOLE er - .-_ " Q E [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE )
+>< :><, I_"__ _"  I: ' 5::-_ :-_'-'' ..=3 .f3._= I} _'_-':" Ea E''E';::'.je-'.E'j - I-: _.5 
+
+0 pa. _ :
+4c  Q Search I g Q. % , W 1,4365 _ f 5? g A Ems '55- Cl!) E m_12_22%::
+
+Duie zachmu rze...
+[2025-12-07 20:39:18] === EAP Prototype Started ===
+[2025-12-07 20:39:20] OCR: File Edit Selection View (30 Run Terminal Help (- Q UST PROJECT |:f'v U8 D D []  G X
+IE5. E"--.2-"=3-"=  .-.-"9:'-.'c.-vie main.py I {} |'.|lES._lEC'l DV U] l E) .3 :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+4}
+den ( ) C;
+l l 0 ( ) Build with Agent
+( J
+( )
+def ()
+( )
+( J
+[]
+==:_:. :-=.' ::E_:.::.::_: TERMINAL =:= -F v -~ [3 X
+}[Output_type]  powershell
+File "D:\UST PRO]ECT\venv34\lib\sitepackages\pytesseract\pytesseract.py", line 398, in <lambda> PW10
+Output.STRING: lambda: run_and_get_output(*args),
+File "D:\UST PRO]ECT\venv34\lib\sitepackages\pytesseract\pytesseract.py", line 218, in run_and_get_output
+run_tesseract(**kwargs)
+File "D:\UST PRO]ECT\venv34\lib\sitepackages\pytesseract\pytesseract.py", line 188, in run_tesseract
+status_code, error_string = proc.wait(), proc.stderr.read() 5: mgm,
+File "C:\Python34\Lib\subprocess.py", line 1165, in wait
+timeout_millis)
+> OUTLINE Keyboardlntermpt . Agentv Autov FE
+; venv34) PS D:\UST PROJECT) main.py
+> TIMELINE
+>\ :._><_. _  _- _ C: S --s_' .,3E .f3._= I } _'_-':'' E; E''' E'2|:". I en.'E''j 122-12 E: _':'e 
+4C D 7 ' ENG 20:39
+g. Q Search I C Ir % " n  *5 l'- A IN 4? cl) E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:20] [MATCH] Pattern detected: ERROR
+[2025-12-07 20:39:20] Message: Error detected!
+[2025-12-07 20:39:24] OCR: IE5: E"--".2  .-.-"e:'-.'c.-vie main.py I {} |'-||ES._iEC'l
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+
+main.py
+{} ru|es.js0n
+
+Statement of W0rk.do...
+
+den ( 3 C3
+
+( ) 0 ( ) Build with Agent
+(  D X H
+E 4 AU > +
+( )
+File Edit View A35 -2. V 9 (Q
+de'F ()
+(
+(
+[]
+= "_=_ :'::_:.::-.::. : +\'  II x
+
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+
+> OUTLINE Keyboardlntermpt . Agent-' PW10
+
+; venv34) PS D:\UST PROJECT) main.p . . _
+
+) TIMELINE In Ln 1. Col ? 6 character Plain tn 500% Wlndo UTF 8
+
+>\ :._><_. _ _ _ C: S s_' .,3E . E: _':'e
+
+41: D 7 ' ENG 29:39
+
+g. Q Search I C Ir % " n *5 1' A IN 4? cl) E 67-12-2625 5: mgmu
+
+Duie zachmu rze...
+[MATCH] Pattern detected: ERROR
+Agentv Autov 
+
+ 
+
+> OUTUNE Message: Error detected!
+> TIMELINE
+
+;< jxj :  : _ :: ' 5;:-._  ..-=-3 .::._= j j- -_-_--:-- E. 3-_'_' E'2|:". j er.-.-3-"; =::-:: -:-:  
+4C .. n P l - p-u ENG A 20:39
+Duzezachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:39:24] [MATCH] Pattern detected: ERROR
+[2025-12-07 20:39:24] Message: Error detected!
+[2025-12-07 20:39:28] OCR: IE5: E"--".2  .-.-"e:'-.'c.-vie main.py I {} |'-||ES._iEC'l
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+
+main.py
+{} ru|es.js0n
+
+Statement of W0rk.do...
+
+ 
+
+def ( )
+( ) Build with Agent
+0 ( )
+(  D X H
+E 4 AU > +
+( )
+File Edit View 55 -2. V 9 (9
+def ()
+(
+(
+[]
+: _  '. : + \/   X
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+Python
+
+) OUTLINE Message: Error detected! ..Ln1.C0|? Echaracter Plamtu 500% Wlndo UTF-8
+
+) TIMELINE
+
+;.< jxj: :_ :: ' 5;.:._ ..=3 .::._= j j __: E. 3_'_' E'2|:". j er..3";. =:::: :: 9 mg;-rm,
+
+4C .. nP 1  pu ENGA2e:39
+
+Duzezachmurze... " Q Search I (3 Ir % n M355 -5  A m '7' cm E o..r'122o25
+
+> OUTLINE [MATCH] Pattern detected: ERROR Agentv Autov W
+Message: Error detected!
+> TIMELINE
+;< jxj :_"_: _~  :: '   ..=3 .-:._= jj- r_-_--:-- E. 3-_''3-2-I2-.jer.-.-3-'j =::-::-:-: _ 5 IT
+4C .. n P l - pu ENG A 20:39
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+- - -
+[2025-12-07 20:39:28] [MATCH] Pattern detected: ERROR
+[2025-12-07 20:39:28] Message: Error detected!
+[2025-12-07 20:39:32] OCR: IE5. E"--".2  .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC'l
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+{} ru|es.js0n
+Statement of W0rk.do...
++
+den ( ) C;
+( ) Build with Agent
+0 ( )
+(  D X
+E 4 AU > +
+( )
+File Edit View A35 -2. V 9 (Q
+den ()
+(
+(
+[]
+
+: _  '. : + \/   X
+
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+
+;. venv34) PS D:\UST PROJECT) main.p PW10
+
+) TIMELINE In Ln 1' CO1 P 6 Charact \.Ln1.C0|? Echaracter Plamtu 500% Wlndo UTF-8
+
+>\ :._><_. ___C: S s_' .,3E . E: _ : 
+
+9 m:."r?.5y
+41: D 7 ' ENG 29:39 '
+D u * n p _ _ I
+> OUTLINE g. Q Search I C It" ,6 n 5 1 A IN 4. cl) E 6? 12 2625 5. mgmu Agentv Autov W
+> T'ME'-NE Duie zachmu rze. ..
+;< jxj :_"_:   :: '   ..=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+4C .. n P l - pu ENG A 20:39
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:36] OCR: IE5. E"--".2  .-.-"e:'-.'c.-vie main.py I {} |'-||ES._iEC'l D V U]   + V E) .3  :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+) venv34
+
+eap_|og.t)Ct
+
+main.py
+
+{} ru|es.js0n
+
+Statement of W0rk.do...
+
+den ( 3 C3
+
+ 
+
+0 ( ) Build with Agent
+(  D X I
+E 4 AU > +
+( )
+File Edit View A35 -2. V 9 (Q
+de'F ()
+(
+(
+[]
+- ::.=_ :':3_:.::-.::. : +\'  II x
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+Python
+41: .. P 1 ENGA2 :39 . .
+n pu e Ln1.C0|? Echaracter Plamtu 500% Wlndo UTF-8
+
+Duzezachmurze... " Q Search I (3 Ir
+
+> OUTLINE [MATCH] Pattern detected: ERROR Agentv Autov Lxl 9 mg.-,?_:,,
+
+Message: Error detected! '
+
+) TIMELINE
+
+'< "X" : ": ~ ::' ..= .:. = " r  : E. 3- "32I2.'er..3" =:::::: 5 IT
+
+> OUTLINE at J Jn E I _pu ENG A 2939 - J3 - - - J J - Agentv Autov 1P8
+> T'ME'-'NE I Q Search I CI hr % H HI ' A IN " '1') E 97-12-2925
+>< :><: I_"_Z _" '-: C: '  -'-'' ..3E .f3._= I} _'_-':" E; E'''E'2|:". I en'.'E''j ::-::.C: _''.'e 
+4C .. n P l - p-u ENG A 20:39
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:39:36] [MATCH] Pattern detected: ERROR
+[2025-12-07 20:39:36] Message: Error detected!
+[2025-12-07 20:39:39] OCR: main.py I {} |'-||ES._iEC'l
+
+IE). 3- _C   .-.-"9:'-.'c.-vie
+1
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+( ) 0 ( ) Build with Agent
+(
+ D X
+E 4 AU > +
+( )
+File Edit View A35 -2. V 9 (Q
+den 0
+(
+(
+[]
+
+: _  '. : + \/   X
+
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+
+den 0 Python
+
+E Ln 1. Col ? 6 character Plain tn 500% Windo UTF-8
+
+[]
+
+ I : +  X 9 m:."r?._5,
+(verw34) PS D:\UST PROJECT) r PNer5"e"
+> ""E ;. venv34) PS D:\UST PROJECT) main.p Pwle Agemv Auk w
+> TIMELINE
+;< jxj :_"_:   :: ' 5::-._  ..'=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 -:-: _ 5 IT
+4C .. D 7 - F ENG ____ 20:39
+I Q Search I C Ir % " n  '5-I ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:43] OCR: I {} |'-||ES._iEC'l
+
+IE). 3- _C   .-.-"9:'-.'c.-??'='- main.py
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+den ( )
+( ) B . .
+ulld with A ent
+0 < > 9
+( _ ,,
+E 4 AU > + D X
+C )
+File Edit View A35 -2. V 9 (Q
+den 0
+(
+(
+[]
+
+: ___  '. : + \/   X
+
+(verw34) PS D:\UST PROJECT) r- PWer5"e"
+
+( ) Build with Agent Python
+
+? (D)X Ln1.C0|? Echaracter Plain tn 500% Windo UTF-8
+
+E 4 AU > + I
+
+( )
+
+File Edit View A35 -2. V 9 (Q 9 mg.-rm,
+
+den () '
+
+(
+
+> OUTLINE E] Agentv Autov 1P8
+> TIMELINE
+>< :><: I_"_Z _"  C: ' 5::-:._'5;'' ..3E .f3._= Z} _'_-':-' E; E'''E'2|:". I eI'.:'E''j III-II-E: _':'e 
+4C .. D 7 - F ENG ____ 20:39
+I Q Search I C Ir % " n  '5-I ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:46] OCR: I {} |'-||ES._iEC'l
+
+IE). 3- _C   .-.-"9:'-.'c.-??'='- main.py
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+( j . .
+-- _ D X ) Build with Agent
+E 4 AU > +
+( File Edit View A35 -2. V 9 (Q
+
+: _ + \/   X
+
+(verw34) PS D:\UST PWer5"e"
+
+( ) Build with Ager Ln1.C0|? Echaracter Plain tn 500% Windo UTF-8 Pho
+
+9 ( ) "
+
+( D X
+
+E 4 AU > +
+
+( )
+
+File Edit View A35 -2. V 9 (Q 9 mg.-rm,
+
+den () '
+
+(
+
+> OUTLINE E] Agentv Autov 1P8
+> TIMELINE
+>< _><,  _ _"  C: ' 5::--_ "-='' ..3E .f3._= I} _'_-':" E; E'''E'2|:". I err.'E''j ::-::.C: _''.'s 
+4C .. D 7 - F ENG ____ 20:39
+I Q Search I C Ir % " n  '5-I ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:49] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+( j . .
+-- -- Build with Agent
+ D X )
+E 4 AU > +
+( File Edit View A35 -2. V 9 (9
+ ALARM
+: _ + \/   X
+(verw34) PS D:\UST PWer5"e"
+Ln 1. Col? Echaracter Plain tn 500% Windo UTF-8 P3/Tho
+
+) venv34 '
+
+eap_|og.t)Ct
+
+main py 9 m:."r?._5,
+
+{} ru|es.jsen
+
+> OUTUNE Statement of Nerk.do... Agentv Aukjv ?E
+> TIMELINE
+;< jxj :_"_:   :: '   ..=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C n P - ENG 20:39
+g. Q Search I C Ir % " n  *5 F A IN 4? '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:49] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:39:49] Click action at (500, 700)
+[2025-12-07 20:39:53] OCR: I {} |'-||ES._iEC'l
+
+IE): 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT 'ain.::},.-' > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+( j . .
+-- _ D X -- ) Build with Agent
+E 4 AU > +
+( File Edit View A35 -2. V 9 (9
+ WLARM
+
+: _ + \/   X
+
+(verw34) PS D:\UST PWer5"e"
+
+File Edit View A35 Ln 1. COI1 Echaracter Plain tn 500% Windo UTF-8 Pho
+
+de'F () '
+
+(
+
+(
+
+[]
+
+ ::.=_ :':3_:.::.::. :+\' II)-( 9 mg.-rm,
+
+(verw34) PS D:\UST PROJECT) r PNer5"e" '
+
+Python
+
+>oUmNE 41: ..P1ENG:'-\2 :39. . A W V w
+n pu e Ln1.Ce|? Echaracter Plamtu 599% Nlndo UTF-8 gen U0
+> TIMELINE
+;< _><_    :: ' 5;:-._  ..-=-3 .::._= jj- -_-_--:-- E. E'''E'2|:". j er.-.-3-"; =::-::-:-:  
+4C D 7 ' 20:39
+:7. Q Search I C Q-,  , h RN36; ,5 -u A Ema '55- Cl!) E m_12_2O25
+
+Duie zachmu rze...
+[2025-12-07 20:39:57] OCR: IE5. E"--".2 .-.-"9:'-.'c.-vie main.py I {} |'-||ES._iEC'l
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+{} ru|es.js0n
+Statement of W0rk.do...
++
+den ( ) C;
+( j . .
+-- _ D X ) Build with Agent
+E 4 AU > +
+( File Edit View A35 -2. V 9 (9
+ ALARM
+: ;:_. + \/   X
+(verw34) PS D:\UST PWer5"e"
+[] Ln1.C0|1 Echaracter Plain tn 500% Windo UTF-8 P3/Tho
+ ::.=_ :':3_:.::. "
+(verw34) PS D:\UST Pr...
+Python
+41: .. P1 ENGA2 :39 . .
+n pu e Ln1.Ce|? Echaracter Plamtu 599% Nlndo UTF-8 9 mg.-,?_:,,
+Duzezachmurze... " Q Search I (3 Ir
+> ""E > OUTLINE [MATCH] Pattern detected: ERROR Agentv Autov Lxl 9 mg.,?_:,, Agemv Auk w
+> TIMELINE
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+4C .. n P l - pu ENG A 20:39
+I Q Search I CI hr % H  -HI ' A IN " '1') E 07-12-2025
+
+Duie zachmu rze...
+[2025-12-07 20:39:57] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:39:57] Click action at (500, 700)
+[2025-12-07 20:40:01] OCR: IE5. E"--".2  .-.-"e:'-.'c.-vie main.py I {} |'-||ES._iEC'l D V U]   + V E) .3  :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+den ( 3 C3
+
+ 
+
+( j . .
+-- _ D X ) Build with Agent
+E 4 AU > +
+( File Edit View A35 -2. V 9 (Q
+ WLARM
+
+==:'s_:.': ::_= | v  [3 X
+
+(verw34) PS D:\UST PWer5"e"
+
+)< :)<: I_"_Z _" ' Ln 1. COI1 6 character Plain tn 500% Windo UTF-8 en' . 'E' 'j ::: : .C: _' ' . 'e P3/Tho
+
+4C .. n P 1  pu E  "
+
+Duie zachmurze... " g . -4025
+
+[MATCH] Pattern detected: ERROR
+
+Message: Error detected!
+
+OCR: main.py I {} |'||ES._iEC'1 9 m_..,w
+
+IE). 3- _C .."9:'.'c.vie
+
+1
+> OUTLINE Agentv Autov 1P8
+> T'ME'-'NE v UST PROJECT ~~ain.::;,. > [3 F~...LES F|LE
+
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+
+4C .. n P l - p-u ENG A 20:39
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:40:01] [MATCH] Pattern detected: ERROR
+[2025-12-07 20:40:01] Message: Error detected!
+[2025-12-07 20:40:05] OCR: IE5. E"--".2  .-.-"e:'-.'c.-vie main.py I {} |'-||ES._iEC'l D V U]   + V E) .3  :3 X
+1
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+) venv34
+ eap_|og.t)Ct
+main.py
+
+{} ru|es.js0n
+Statement of W0rk.do...
+
+den ( 3 C3
+
+ 
+
+( j . .
+-- _ D X ) Build with Agent
+E 4 AU > +
+( File Edit View A35 -2. V 9 (Q
+ ALARM
+
+==:'s_:.': ::_= | v  [3 X
+
+(verw34) PS D:\UST PWer5"e"
+
+)< :)<: I_"_Z _" ' Ln 1. COI1 6 character Plain tn 500% Windo UTF-8 en' . 'E' 'j ::: : .C: _' ' . 'e P3/Tho
+
+4C .. n P 1  pu E  "
+
+Duie zachmurze... " g . -4025
+
+[MATCH] Pattern detected: ERROR
+
+Message: Error detected!
+
+OCR: main.py I {} |'||ES._iEC'1 9 m_..,w
+
+IE). 3- _C .."9:'.'c.vie
+
+1
+> OUTLINE Agentv Autov 1P8
+> T'ME'-'NE v UST PROJECT ~~ain.::;,. > [3 F~...LES F|LE
+
+;< jxj :_"_:   :: ' 5::-._  ..-=-3 .::._= jj- -_-_--:-- E. 3-_'_'3-2-I:'-.jer.-.-3--1 =::-::-:-:  
+
+4C .. n P l - p-u ENG A 20:40
+Duie zachmurze... " Q Search I C Ir % n M355 -5 "" A m '7' cm E o..r'122o25
+[2025-12-07 20:40:05] [MATCH] Pattern detected: ALARM
+[2025-12-07 20:40:05] Click action at (500, 700)
+[2025-12-07 20:40:08] OCR: C3 D3I3DC| 0' ><
+
+File Edit Selection View (30 Run Terminal Help (- Q USTPROJECT
+
+IE}: 3- _C   .-.-"9:'-.'c.-??'='- main.py
+
+v UST PROJECT -~~ain.::;,.- > [3 F~...LES_F|LE
+
+I {} |'-|lES._lEC'l
+
+) venv34
+ eap_log.t)Ct
+main.py
+{} rules.js0n
+Statement of W0rk.do...
+
+ 
+
+den ( )
+l l 0 ( ) Build with Agent
+( 3
+C )
+den 0
+C )
+( 3
+[]
+==:E_: '3 ':_'=_' DEBUGCONSOLE TERMINAL "' Q "== [3 X
+9 m:."r?._5,
+>0UTL|NE Agentv Autov IFS
+> TIMELINE )
+>< :><, I_"__ _"  I: ' 5::-_ :-_'-'' ..=3 .f3._= I} _'_-':" Ea E''E';::'.je-'.E'j - I-: _.5 
+4C D 7  20:40
+:v. Q Search I C. Q, % , W CHE; _ f 5? g A Ems '55- Cl!) E m_12_2O25
+
+Duie zachmu rze...

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Demo</title>
+
+    <style>
+        body {
+            background: white;
+            font-family: Arial, sans-serif;
+            padding: 40px;
+        }
+
+        .label {
+            font-size: 70px;
+            font-weight: bold;
+            color: black;
+            margin-top: 20px;
+        }
+
+        .value {
+            font-size: 85px;
+            font-weight: bold;
+            color: black;
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="label">Strike Rate</div>
+    <div id="strike" class="value">0</div>
+
+    <div class="label">CPU Usage</div>
+    <div id="cpu" class="value">0</div>
+
+    <script>
+        function rand(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        let srAlertShown = false;
+        let cpuAlertShown = false;
+
+        function updateValues() {
+            let sr = rand(10, 150);
+            let cpu = rand(1, 90);
+
+            document.getElementById("strike").innerText = sr;
+            document.getElementById("cpu").innerText = cpu;
+
+            // Strike Rate popup
+            if (sr > 120 && !srAlertShown) {
+                alert("WARNING: Strike Rate too high (" + sr + ")");
+                srAlertShown = true;
+            }
+            if (sr <= 120) {
+                srAlertShown = false;
+            }
+
+            // CPU popup
+            if (cpu > 80 && !cpuAlertShown) {
+                alert("WARNING: CPU Usage too high (" + cpu + "%)");
+                cpuAlertShown = true;
+            }
+            if (cpu <= 80) {
+                cpuAlertShown = false;
+            }
+        }
+
+        
+        setInterval(updateValues, 3000);
+    </script>
+
+</body>
+</html>
