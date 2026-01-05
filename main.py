@@ -3,29 +3,49 @@ from PIL import ImageGrab, ImageOps, ImageEnhance
 import time, datetime, os, re, json
 import win32gui
 
-# Path to Tesseract executable
-pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+# -----------------------------
+# PORTABLE PATH CONFIGURATION
+# -----------------------------
 
-SAVE_DIR = "ocr_shots"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Tesseract (portable) - assumes Tesseract is installed and added to PATH
+pytesseract.pytesseract.tesseract_cmd = "tesseract"
+
+# Screenshot folder (relative)
+SAVE_DIR = os.path.join(BASE_DIR, "ocr_shots")
 if not os.path.exists(SAVE_DIR):
     os.makedirs(SAVE_DIR)
 
+# JSON folder (relative)
+DATA_DIR = os.path.join(BASE_DIR, "data")
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR)
+
 # Create a new JSON file for each run
 RUN_TIMESTAMP = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-JSON_FILE = "values_" + RUN_TIMESTAMP + ".json"
+JSON_FILE = os.path.join(DATA_DIR, "values_" + RUN_TIMESTAMP + ".json")
 
-# Make detection cycle about 2 seconds
+# -----------------------------
+# CONFIG
+# -----------------------------
+
 SLEEP_TIME = 1
-
-# ALERT THRESHOLDS
 STRIKE_ALERT_LIMIT = 120
 CPU_ALERT_LIMIT = 80
+
+# -----------------------------
+# LOGGING
+# -----------------------------
 
 def log(msg):
     ts = "[" + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "] "
     print(ts + msg)
 
-# Detect if HTML window is open
+# -----------------------------
+# WINDOW DETECTION
+# -----------------------------
+
 def is_window_open(title):
     def callback(hwnd, found):
         if title.lower() in win32gui.GetWindowText(hwnd).lower():
@@ -36,6 +56,10 @@ def is_window_open(title):
     win32gui.EnumWindows(callback, found)
     return bool(found)
 
+# -----------------------------
+# IMAGE PREPROCESSING
+# -----------------------------
+
 def preprocess(img):
     gray = ImageOps.grayscale(img)
     enhancer = ImageEnhance.Contrast(gray)
@@ -44,18 +68,20 @@ def preprocess(img):
     bw = gray.point(lambda x: 0 if x < 180 else 255)
     return bw
 
+# -----------------------------
+# OCR VALUE EXTRACTION
+# -----------------------------
+
 def extract_values(text):
     strike = None
     cpu = None
 
-    # Strike Rate detection
     m1 = re.search(r"strike\s*rate[^0-9]*([0-9]{1,3})", text, flags=re.IGNORECASE)
     if m1:
         val = int(m1.group(1))
         if 1 <= val <= 150:
             strike = val
 
-    # CPU Usage detection
     m2 = re.search(r"cpu\s*usage[^0-9]*([0-9]{1,3})", text, flags=re.IGNORECASE)
     if m2:
         val = int(m2.group(1))
@@ -64,7 +90,10 @@ def extract_values(text):
 
     return strike, cpu
 
-# Save every detection to JSON
+# -----------------------------
+# JSON SAVE
+# -----------------------------
+
 def save_json(strike, cpu):
     entry = {
         "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -72,7 +101,6 @@ def save_json(strike, cpu):
         "cpu_usage": cpu
     }
 
-    # Load existing data
     if os.path.exists(JSON_FILE):
         try:
             with open(JSON_FILE, "r") as f:
@@ -82,18 +110,24 @@ def save_json(strike, cpu):
     else:
         data = []
 
-    # Append new entry
     data.append(entry)
 
-    # Save back to file
     with open(JSON_FILE, "w") as f:
         json.dump(data, f, indent=4)
+
+# -----------------------------
+# SCREENSHOT SAVE
+# -----------------------------
 
 def save_screenshot(img, reason):
     filename = datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + "_" + reason + ".png"
     path = os.path.join(SAVE_DIR, filename)
     img.save(path)
     log("Screenshot saved: " + path)
+
+# -----------------------------
+# MAIN LOOP
+# -----------------------------
 
 def main():
     log("=== OCR Started (Window Aware) ===")
@@ -105,7 +139,6 @@ def main():
 
     while True:
 
-        # STOP OCR if HTML window is closed
         if not is_window_open("OCR Demo"):
             log("HTML window not open - skipping OCR")
             time.sleep(1)
@@ -124,7 +157,6 @@ def main():
         clean = text.encode("ascii", "ignore").decode("ascii")
         strike, cpu = extract_values(clean)
 
-        # Save every detected value to JSON
         if strike is not None and cpu is not None:
             save_json(strike, cpu)
 
@@ -163,6 +195,10 @@ def main():
             log("CPU Usage not detected")
 
         time.sleep(SLEEP_TIME)
+
+# -----------------------------
+# ENTRY POINT
+# -----------------------------
 
 if __name__ == "__main__":
     main()

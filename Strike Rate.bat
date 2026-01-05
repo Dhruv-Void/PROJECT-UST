@@ -1,13 +1,22 @@
 @echo off
 echo Starting Strike Rate Capture...
 
-REM Use venv Python
-set PYTHON_PATH=D:\UST PROJECT\venv34\Scripts\python.exe
+REM Create venv if not exists
+if not exist venv (
+    echo Creating virtual environment...
+    python -m venv venv
+)
 
-REM Go to project folder
-cd /d D:\UST PROJECT
+REM Activate venv
+call venv\Scripts\activate
 
-REM Run script
-"%PYTHON_PATH%" main.py
+REM Install dependencies
+echo Installing required packages...
+pip install --upgrade pip
+pip install -r requirements.txt
+
+REM Run the script
+echo Running Strike Rate OCR...
+python main.py
 
 pause

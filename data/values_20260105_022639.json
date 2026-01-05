@@ -1,0 +1,57 @@
+[
+    {
+        "strike_rate": 31,
+        "timestamp": "2026-01-05 02:26:45",
+        "cpu_usage": 26
+    },
+    {
+        "strike_rate": 31,
+        "timestamp": "2026-01-05 02:26:48",
+        "cpu_usage": 26
+    },
+    {
+        "strike_rate": 1,
+        "timestamp": "2026-01-05 02:26:50",
+        "cpu_usage": 54
+    },
+    {
+        "strike_rate": 25,
+        "timestamp": "2026-01-05 02:26:53",
+        "cpu_usage": 59
+    },
+    {
+        "strike_rate": 1,
+        "timestamp": "2026-01-05 02:26:58",
+        "cpu_usage": 62
+    },
+    {
+        "strike_rate": 72,
+        "timestamp": "2026-01-05 02:27:04",
+        "cpu_usage": 72
+    },
+    {
+        "strike_rate": 117,
+        "timestamp": "2026-01-05 02:27:07",
+        "cpu_usage": 24
+    },
+    {
+        "strike_rate": 46,
+        "timestamp": "2026-01-05 02:27:09",
+        "cpu_usage": 24
+    },
+    {
+        "strike_rate": 112,
+        "timestamp": "2026-01-05 02:27:12",
+        "cpu_usage": 3
+    },
+    {
+        "strike_rate": 34,
+        "timestamp": "2026-01-05 02:27:16",
+        "cpu_usage": 24
+    },
+    {
+        "strike_rate": 3,
+        "timestamp": "2026-01-05 02:27:20",
+        "cpu_usage": 3
+    }
+]
